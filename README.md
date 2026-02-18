@@ -26,7 +26,7 @@ Je suis passionné par l'informatique et actuellement en cours de spécialisatio
 ### 📊 Statistiques GitHub (f4cloud)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f4cloud&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LouannBerne&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
